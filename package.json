@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "loomkar backend",
   "main": "index.js",
+  "buildCommand": "next build",
   "engines":{
     "node": "18.x"
   }
